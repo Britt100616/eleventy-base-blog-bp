@@ -6,4 +6,5 @@ eleventyNavigation:
 ---
 # About Me
 
-I am a person that writes stuff.
+I am a self taught web developer
+
