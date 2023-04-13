@@ -1,7 +1,7 @@
 ---
 title: This is my third post.
 description: This is a post on My Blog about win-win survival strategies.
-date: 2018-08-24
+date: 2023-04-13
 tags:
   - second tag
   - posts with two tags
