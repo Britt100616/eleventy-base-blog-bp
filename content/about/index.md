@@ -1,5 +1,5 @@
 ---
-layout: layout.md
+layout: layout.m
 eleventyNavigation:
   key: About Me
   order: 3
