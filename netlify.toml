@@ -1,6 +1,21 @@
-[[plugins]]
-package = "@netlify/plugin-nextjs"
+[[edge_functions]]
+  path = "/admin"
+  function = "auth"
 
-[build]
-publish = ".next"
+[[edge_functions]]
+  path = "/admin"
+  function = "injector"
+
+[[edge_functions]]
+  path = "/blog/*"
+  function = "auth"
+
+[[edge_functions]]
+  path = "/blog/*"
+  function = "rewriter"
+
+[[edge_functions]]
+  path = "/*"
+  function = "common"
+
 
