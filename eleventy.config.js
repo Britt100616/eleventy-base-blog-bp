@@ -124,7 +124,7 @@ module.exports = function(eleventyConfig) {
 			output: "_site"
 		},
 
-		<a link href="https://www.britneypeasephotography.com/">
+		
 		},
 	};
 
