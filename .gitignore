@@ -2,3 +2,10 @@ _site/
 node_modules/
 package-lock.json
 .hintrc
+
+module.exports = function(eleventyConfig) {
+  // in Eleventy 2.0
+  eleventyConfig.ignores.delete("**/node_modules/**");
+
+  // in Eleventy 1.0
+  eleventyConfig.ignores.delete("node_modules/**");
