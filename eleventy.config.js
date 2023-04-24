@@ -127,7 +127,5 @@ module.exports = function(eleventyConfig) {
 		},
 
 		
-		},
-	};
-
-;
+	}
+};
