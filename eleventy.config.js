@@ -125,7 +125,9 @@ module.exports = function(eleventyConfig) {
 			data: "../_data",          // default: "_data"
 			output: "_site"
 		},
+	};
 
-		
-	}
-};
+;
+		}
+	
+
