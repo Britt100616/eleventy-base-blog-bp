@@ -4,7 +4,7 @@ package-lock.json
 .hintrc
 
 module.exports = function(eleventyConfig) {
-  // in Eleventy 2.0
+  // in Eleventy 2.0npm
   eleventyConfig.ignores.delete("**/node_modules/**");
 
   // in Eleventy 1.0
