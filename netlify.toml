@@ -1,21 +1,7 @@
-[[edge_functions]]
-  path = "/admin"
-  function = "auth"
+[build]
+ publish = "_site"
+command = "npm run build"
 
-[[edge_functions]]
-  path = "/admin"
-  function = "injector"
 
-[[edge_functions]]
-  path = "/blog/*"
-  function = "auth"
-
-[[edge_functions]]
-  path = "/blog/*"
-  function = "rewriter"
-
-[[edge_functions]]
-  path = "/*"
-  function = "common"
 
 

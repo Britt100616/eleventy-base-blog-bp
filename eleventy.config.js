@@ -1,7 +1,7 @@
 module.exports = function(eleventyConfig) {
 	return {
 		dir: {
-			input: "content",
+			input: " ",
 			output: "public"
 	
 		},
@@ -10,4 +10,3 @@ module.exports = function(eleventyConfig) {
 ;
 		}
 	
-
