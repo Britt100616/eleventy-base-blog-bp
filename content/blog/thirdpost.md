@@ -1,12 +1,12 @@
 ---
 title: This is my third post.
-description: This is a post on My Blog about win-win survival strategies.
+description: This is a post on My photographic practices.
 date: 2023-04-13
 tags:
   - second tag
   - posts with two tags
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+My photographic practices varies from still life, documentary and 35mm film, however the one practice that I find myself shooting time and time again is still life. 
 
 ## Code
 
@@ -20,6 +20,8 @@ function myCommand() {
 	let counter = 0;
 	counter++;
 }
+
+///
 
 // Test with a line break above this line.
 console.log('Test');

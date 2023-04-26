@@ -9,7 +9,7 @@
             "webRoot": "${workspaceFolder}"
         },
         {
-            "type": "chrome",
+            "type": "pwa-msedge",
             "name": "Launch Microsoft Edge",
             "request": "launch",
             "runtimeArgs": [
@@ -21,7 +21,7 @@
             }
         },
         {
-            "type": "msedge",
+            "type": "pwa-msedge",
             "name": "Launch Microsoft Edge in headless mode",
             "request": "launch",
             "runtimeArgs": [
@@ -46,7 +46,7 @@
     "compounds": [
         {
             "name": "Launch Edge Headless and attach DevTools",
-            "configurations": [ 
+            "configurations": [
                 "Launch Microsoft Edge in headless mode",
                 "Open Edge DevTools"
             ]
