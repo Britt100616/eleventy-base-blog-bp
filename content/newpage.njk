@@ -5,24 +5,20 @@ key: Britney's page 1
   order: 1
 numberOfLatestPostsToShow: 6
 ---
-{% set postsCount = collections.posts | length %}
-{% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
-<h1>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h1>
-
-{% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
-{% set postslistCounter = postsCount %}
-{% include "postslist.njk" %}
-
-{% set morePosts = postsCount - numberOfLatestPostsToShow %}
-{% if morePosts > 0 %}
-<p>{{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} can be found in <a href="/blog/">the archive</a>.</p>
-{% endif %}
-
-{# List every content page in the project #}
-{#
-<ul>
-	{%- for entry in collections.all %}
-	<li><a href="{{ entry.url }}"><code>{{ entry.url }}</code></a></li>
-	{%- endfor %}
-</ul>
-#}
+<form name="contact" netlify>
+     <p>
+      <label>First Name <input type="text" name="name" /></label>
+    </p>
+    <p>
+      <label> Last Name <input type="text" name="name" /></label>
+      </p>
+      <p>
+      <label>Email <input type="email" name="email" /></label>
+    </p>
+    <p>
+      <label>New Message <input type="text" name="name" /></label>
+    </p>
+    <p>
+      <button type="submit">Send</button>
+    </p>
+  </form>
