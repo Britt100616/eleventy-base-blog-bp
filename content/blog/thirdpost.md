@@ -1,18 +1,16 @@
 ---
-title: This is my third post.
-description: This is a post on My Blog about win-win survival strategies.
+title: About my photographic practices
+description: This is a post about my photographic practices and what I take photographs of.
 date: 2023-04-13
 tags:
   - second tag
   - posts with two tags
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+My photographic practices consist of still life, travel and 35mm film. I like to take photographs primarily on a film camera as it is something that I have grown to love throughout my time as a master's student.
 
 ## Code
 
 ### Styled (with Syntax)
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
 
 ```js
 // this is a command

@@ -1,4 +1,5 @@
 ---
-title: this is my sixth post
-description: this shows a description about using github
+title: The Yorkshire Ripper series
+description: this is about the yorkshire ripper series that I did during my postgraduate degree
+
 
