@@ -1,4 +1,6 @@
 ---
+title: This is my third post.
+description: This is a post on My photographic practices.
 title: About my photographic practices
 description: This is a post about my photographic practices and what I take photographs of.
 date: 2023-04-13
@@ -6,7 +8,7 @@ tags:
   - second tag
   - posts with two tags
 ---
-My photographic practices consist of still life, travel and 35mm film. I like to take photographs primarily on a film camera as it is something that I have grown to love throughout my time as a master's student.
+Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
 ## Code
 
@@ -18,6 +20,8 @@ function myCommand() {
 	let counter = 0;
 	counter++;
 }
+
+///
 
 // Test with a line break above this line.
 console.log('Test');

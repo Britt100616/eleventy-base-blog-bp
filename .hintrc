@@ -1,5 +1,23 @@
 {
   "extends": [
     "development"
+  ],
+  "hints": {
+    "compat-api/css": [
+      "default",
+      {
+        "ignore": [
+          "text-underline-offset"
+        ]
+      }
+    ]
+  },
+  "browserslist": [
+    "defaults",
+    "not ie 11",
+    "not and_ff <= 110",
+    "not ios_saf <= 16.4",
+    "not opera <= 95",
+    "not safari <= 16.4"
   ]
 }
