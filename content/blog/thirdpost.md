@@ -1,14 +1,12 @@
 ---
-title: This is my third post.
-description: This is a post on My photographic practices.
-title: About my photographic practices
-description: This is a post about my photographic practices and what I take photographs of.
+title: Still life
+description: About my practices within photography
 date: 2023-04-13
 tags:
   - second tag
   - posts with two tags
 ---
-This will be about my most used practices that I have contributed to while doing my degrees.
+This will be about my most used practices that I have contributed to while doing my degrees. How the modules I took contributed to the practices I chose. I did not know what still life photography was before I went to do my undergraduate, however it became my favourite to shoot, even though I am still a beginner in photography, I would say out of all the practices I have shot, that still life is my favourite as it allows me to became creative within myself. 
 
 ## Code
 
