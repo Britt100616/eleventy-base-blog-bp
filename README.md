@@ -51,7 +51,7 @@ Or you can run [debug mode](https://www.11ty.dev/docs/debugging/) to see all the
   - [View the Lighthouse report for the latest build](https://eleventy-base-blog.netlify.app/reports/lighthouse/) courtesy of the [Netlify Lighthouse plugin](https://github.com/netlify/netlify-plugin-lighthouse).
   - _0 Cumulative Layout Shift_
   - _0ms Total Blocking Time_
-- Local development live reload provided by [Eleventy Dev Server](https://www.11ty.dev/docs/dev-server/).
+- Local development live reload provided by [Eleventy Dev Server](https://www.11ty.dev/docs/dev-server/)
 - Content-driven [navigation menu](https://www.11ty.dev/docs/plugins/navigation/)
 - [Image optimization](https://www.11ty.dev/docs/plugins/image/) via the `{% image %}` shortcode.
   - Zero-JavaScript output.
