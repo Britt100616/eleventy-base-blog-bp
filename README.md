@@ -20,21 +20,23 @@ cd my-blog-name
 4 Install dependencies
 
 npm install
-```
+
+'''
 
 5 Edit `_data/metadata.js` to change the site data.
 6 Run Eleventy
 
 Generate a production-ready build:
 
-```
+'''
+
 npx @11ty/eleventy
 
 Or build and host locally on a local development server:
 
 npx @11ty/eleventy --serve
 
-```
+'''
 
 Or you can run [debug mode](https://www.11ty.dev/docs/debugging/) to see all the internals.
 
@@ -73,21 +75,6 @@ Or you can run [debug mode](https://www.11ty.dev/docs/debugging/) to see all the
   - `sitemap.xml`
   - Zero-maintenance tag pages ([View on the Demo](https://eleventy-base-blog.netlify.app/tags/))
   - Content not found (404) page
-
-## Demos
-
-- [Netlify](https://eleventy-base-blog.netlify.com/)
-- [GitHub Pages](https://11ty.github.io/eleventy-base-blog/)
-- [Remix on Glitch](https://glitch.com/~11ty-eleventy-base-blog)
-
-## Deploy this to your own site
-
-Deploy this Eleventy site in just a few clicks on these services:
-
-- [Get your own Eleventy web site on Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/11ty/eleventy-base-blog)
-- If you run Eleventy locally you can drag your `_site` folder to [`drop.netlify.com`](https://drop.netlify.com/) to upload it without using `git`.
-- [Get your own Eleventy web site on Vercel](https://vercel.com/import/project?template=11ty%2Feleventy-base-blog)
-- Read more about [Deploying an Eleventy project](https://www.11ty.dev/docs/deployment/) to the web.
 
 ### Implementation Notes
 
