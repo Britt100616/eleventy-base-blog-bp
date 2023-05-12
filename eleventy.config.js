@@ -8,7 +8,7 @@ module.exports = function(eleventyConfig) {
 			set input(value) {
 				this._input = value;
 			},
-			output: "public"
+			output: "_site"
 	
 		},
 	};
