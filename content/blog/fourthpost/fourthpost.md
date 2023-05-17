@@ -10,5 +10,4 @@ tags: second tag
 
 ## Section Header
 
-colour film offers different saturations and highlights than what black and white can offer you. 
-
+colour film offers different saturations and highlights than what black and white can offer you
